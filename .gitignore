@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/index.html
+!/sw.js
+!/.github/
+!/.github/workflows/
+!/.github/workflows/pages.yml
